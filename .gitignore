@@ -115,7 +115,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-.min.js/
-min.js/
-js/
